@@ -2,6 +2,12 @@
 
 
 
+#### >  [Fork Replit ](https://www.youtube.com/watch?v=Mv4QbxSv59M)
+
+
+
+
+
 บอทนี้คือบอทกดรับยศ
 
  1.npm init
